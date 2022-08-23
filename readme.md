@@ -1,7 +1,7 @@
 <h1  align="center">Hi 👋, I'm Jona <img height="50px" src="https://giffiles.alphacoders.com/432/4326.gif"></h1> 
 
 <div align="center" >
-    <img src="https://i.postimg.cc/6QT3gXWW/infinitytrain-tulip.gif">
+    <img  width="40%" src="https://i.postimg.cc/6QT3gXWW/infinitytrain-tulip.gif">
     <img src="https://giffiles.alphacoders.com/163/163818.gif">
 </div>
 
@@ -20,8 +20,9 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atticus64&show_icons=true&locale=en&layout=compact" alt="atticus64" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atticus64&show_icons=true&locale=en&layout=compact" alt="atticus64" /></p>
+
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atticus64&show_icons=true&locale=en" alt="atticus64" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atticus64&" alt="atticus64" /></p>
