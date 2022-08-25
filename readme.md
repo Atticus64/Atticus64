@@ -33,9 +33,5 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atticus64&show_icons=true&locale=en&layout=compact" alt="atticus64" /></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atticus64&show_icons=true&locale=en" alt="atticus64" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atticus64&show_icons=true&locale=en&layout=compact&theme=react" alt="atticus64" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atticus64&show_icons=true&locale=en&theme=react" alt="atticus64" /></p>
