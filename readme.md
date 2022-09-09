@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JavaScript and Linux**
 
-- My favorite series: **Infinity Train ♾**
+- My favorite series: **Infinity Train :infinity:**
 
 - ⚡ Fun fact **In six months, Will be releasead a new Js framework**
 
