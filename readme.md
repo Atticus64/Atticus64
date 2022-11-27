@@ -5,6 +5,8 @@
     <img src="https://giffiles.alphacoders.com/163/163818.gif">
 </div>
 
+- 📖 I'm Christian 
+
 - 🔭 I’m currently working on [Nodejs things...](https://github.com/Atticus64/node-restserver)
 
 - 🌱 I’m currently learning **Rust, Python and Nodejs**
