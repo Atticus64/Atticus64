@@ -1,4 +1,4 @@
-<h1  align="center">Hi 👋, I'm Jona <img height="50px" src="https://giffiles.alphacoders.com/432/4326.gif"></h1> 
+<h1  align="center">Hi 👋, I'm Jonathan Alcantar <img height="50px" src="https://giffiles.alphacoders.com/432/4326.gif"></h1> 
 
 <div align="center" >
     <img  width="40%" src="https://i.postimg.cc/6QT3gXWW/infinitytrain-tulip.gif">
