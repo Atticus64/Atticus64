@@ -7,7 +7,7 @@
 
 - 📖 I'm Christian 
 
-- 🔭 I’m currently working on [Nodejs things...](https://github.com/Atticus64/node-restserver)
+- 🔭 I’m currently working on [Infinity Train Api](https://github.com/Atticus64/infinity-train-api)
 
 - 🌱 I’m currently learning **Rust, Python and Nodejs**
 
