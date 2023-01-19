@@ -17,10 +17,12 @@
 
 - ⚡ Fun fact **In six months, Will be releasead a new Js framework**
 
+<div>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,vue,react,express,vite,deno,nodejs,rust,vscode,vim,python,bash,terminal)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,vue,ts,react,express,vite,deno,nodejs,rust,vscode,vim,python,bash,terminal&perline=4)](https://skillicons.dev)
+    
+</div>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atticus64&show_icons=true&locale=en&layout=compact&langs_count=8&theme=react" alt="atticus64" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=atticus64&show_icons=true&locale=en&theme=react" alt="atticus64" /></p>
