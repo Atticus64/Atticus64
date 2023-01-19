@@ -17,12 +17,11 @@
 
 - ⚡ Fun fact **In six months, Will be releasead a new Js framework**
 
-<div>
-<h3 align="left">Languages and Tools:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,vue,ts,react,express,vite,deno,nodejs,rust,vscode,vim,python,bash,terminal&perline=4)](https://skillicons.dev)
-    
+<div align="left">
+ <h2 align="left">Languages and Tools:</h2>
+    <img src="https://skillicons.dev/icons?i=js,html,css,git,vue,ts,react,express,vite,deno,nodejs,rust,vscode,vim,python,bash,terminal&perline=5" />
 </div>
+</br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atticus64&show_icons=true&locale=en&layout=compact&langs_count=8&theme=react" alt="atticus64" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=atticus64&show_icons=true&locale=en&theme=react" alt="atticus64" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atticus64&show_icons=true&locale=en&layout=compact&langs_count=8&theme=react" alt="atticus64" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=atticus64&show_icons=true&locale=en&theme=react" alt="atticus64" />
