@@ -21,8 +21,6 @@
 <p align="left"> 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,vue,react,express,vite,deno,nodejs,rust,vscode,vim,python,bash,terminal)](https://skillicons.dev)
- 
-<br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atticus64&show_icons=true&locale=en&layout=compact&langs_count=8&theme=react" alt="atticus64" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=atticus64&show_icons=true&locale=en&theme=react" alt="atticus64" /></p>
