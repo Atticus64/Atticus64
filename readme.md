@@ -19,7 +19,7 @@
 
 <div align="left">
  <h2 align="left">Languages and Tools:</h2>
-    <img src="https://skillicons.dev/icons?i=js,html,css,git,vue,ts,react,express,vite,deno,nodejs,rust,vscode,python,neovim,bash,terminal&perline=5" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,git,vue,ts,react,express,vite,deno,nodejs,rust,vscode,python,neovim,bash,postgres,go&perline=5" />
 </div>
 </br>
 
