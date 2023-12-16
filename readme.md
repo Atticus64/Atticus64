@@ -9,7 +9,7 @@
 
 - ☕ I’m currently working on [Bible App](https://github.com/Atticus64/BibleApp)
 
-- 🌱 I’m currently learning **Rust, Python and Nodejs**
+- 🌱 I’m currently learning **English and Piano 🎹**
 
 - 💬 Ask me about **JavaScript and Linux**
 
