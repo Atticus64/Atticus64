@@ -7,13 +7,15 @@
 
 - 📖 I'm Christian 
 
-- 🔭 I’m currently working on [Infinity Train Api](https://github.com/Atticus64/infinity-train-api)
+- ☕ I’m currently working on [Bible App](https://github.com/Atticus64/BibleApp)
 
 - 🌱 I’m currently learning **Rust, Python and Nodejs**
 
 - 💬 Ask me about **JavaScript and Linux**
 
 - My favorite series: **Infinity Train :infinity:**
+
+- CLI lover 🦀
 
 - ⚡ Fun fact **In six months, Will be releasead a new Js framework**
 
