@@ -1,4 +1,4 @@
-<h3  align="center">Hi 👋, I'm Jonathan Alcantar </h3> 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0FF75B&width=435&lines=Hi+%E2%98%95+I'm+Jonathan+Alcantar+;Coding+with++%7B++Joy++%7D)](https://git.io/typing-svg)
 
 <div align="left">
  <h2 align="left">Languages and Tools:</h2>
